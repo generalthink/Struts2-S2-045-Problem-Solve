@@ -25,6 +25,6 @@ Struts 2.5 – Struts 2.5.10
 使用lib目录下的Struts2 02-45 Poc.exe
 
 ** 加固方式如下:
-	1. 通过判断Content-Type头是否为白名单类型，来限制非法Content-Type的攻击。查看content-type方式.md
+	1. 通过判断Content-Type头是否为白名单类型，来限制非法Content-Type的攻击,查看content-type方式.md
 	2. 采用其他的Multipart parser,查看MultipartParser方式.md
 
